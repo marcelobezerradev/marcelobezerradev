@@ -1,13 +1,22 @@
-# Olá, eu sou Marcelo Almeida Bezerra👋
+# Olá, eu sou Marcelo Almeida 👋
 
 💻 **Desenvolvedor de Software | Backend**
 
 Desenvolvedor com experiência em sistemas e APIs, atualmente focado em **Java e Spring Boot**.
 
-### 🛠️ Stack
-
-**Java · Spring Boot · REST · PostgreSQL · SQL Server · Docker · Kubernetes · AWS · Git**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,kubernetes,aws,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
+</p>
 
 ### 🚀 Atualmente
 
-Focado em desenvolvimento backend, arquitetura de software e boas práticas de desenvolvimento.
+- Desenvolvimento backend
+- APIs REST e microsserviços
+- Arquitetura de software
+- Boas práticas e Clean Code
+- Uso de IA como apoio ao desenvolvimento
+
+### 📌 Foco
+
+**Java • Spring Boot • Backend • APIs • Arquitetura de Software**
