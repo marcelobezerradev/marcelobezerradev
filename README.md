@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou Marcelo Almeida Bezerra👋
 
-<!--
-**marcelobezerradev/marcelobezerradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desenvolvedor de Software | Backend**
 
-Here are some ideas to get you started:
+Desenvolvedor com experiência em sistemas e APIs, atualmente focado em **Java e Spring Boot**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+
+**Java · Spring Boot · REST · PostgreSQL · SQL Server · Docker · Kubernetes · AWS · Git**
+
+### 🚀 Atualmente
+
+Focado em desenvolvimento backend, arquitetura de software e boas práticas de desenvolvimento.
